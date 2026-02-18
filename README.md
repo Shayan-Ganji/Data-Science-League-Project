@@ -2,7 +2,7 @@
 
 <div dir="rtl">
 
-به ریپازیتوری رسمی لیگ علم داده خوش آمدید.
+به ریپازیتوری  لیگ علم داده خوش آمدید.
 این مخزن شامل **منابع آموزشی**، **محل تحویل تمرینات** و **کدهای پایه پروژه نهایی** است.
 
 ---
@@ -107,3 +107,4 @@ Send your `submission.csv` to **[@datascienceleaguebot](https://t.me/datascience
 **Scientific Exploration Working Group - AI Association of Kharazmi University**
 
 </details>
+
